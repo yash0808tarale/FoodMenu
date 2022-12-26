@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yash0808tarale/FoodMenu/static/css/main.1e5004d7.css",
-    "main.js": "/yash0808tarale/FoodMenu/static/js/main.f82df233.js",
+    "main.js": "/yash0808tarale/FoodMenu/static/js/main.c080de27.js",
     "static/js/787.a8aaa17e.chunk.js": "/yash0808tarale/FoodMenu/static/js/787.a8aaa17e.chunk.js",
     "static/media/about-img.png": "/yash0808tarale/FoodMenu/static/media/about-img.858820017910e499f7b2.png",
     "static/media/dish--1.png": "/yash0808tarale/FoodMenu/static/media/dish--1.b19b756695620d1c920e.png",
@@ -28,11 +28,11 @@
     "static/media/menu-10.jpg": "/yash0808tarale/FoodMenu/static/media/menu-10.8a05662b0e48c6e491c0.jpg",
     "index.html": "/yash0808tarale/FoodMenu/index.html",
     "main.1e5004d7.css.map": "/yash0808tarale/FoodMenu/static/css/main.1e5004d7.css.map",
-    "main.f82df233.js.map": "/yash0808tarale/FoodMenu/static/js/main.f82df233.js.map",
+    "main.c080de27.js.map": "/yash0808tarale/FoodMenu/static/js/main.c080de27.js.map",
     "787.a8aaa17e.chunk.js.map": "/yash0808tarale/FoodMenu/static/js/787.a8aaa17e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e5004d7.css",
-    "static/js/main.f82df233.js"
+    "static/js/main.c080de27.js"
   ]
 }
